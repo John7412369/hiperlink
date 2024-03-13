@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body {
+  
+  background-image:  url(../images/pexels-james-wheeler-417074.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+div {
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 80px;
+  background-color: rgb(131, 255, 193, 0.7);
+  border-radius: 5px;
+  
+  
+  }
+  
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  font-size: 25px;
+  padding-left: 90px;
+  padding-right: 90px;
+  
+  color: rgb(0, 0, 0);
+}
+nav{
+    margin-left: 86%;
+  }
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    margin-left:15px;
+  }
+  h2{
+    font-family: 'Lobster', cursive;
+    margin-left: 80px;
+    font-size: 35px;
+  }
+
+img{
+    margin-left: 220px;
+    height: 290px
+}
+
+  
